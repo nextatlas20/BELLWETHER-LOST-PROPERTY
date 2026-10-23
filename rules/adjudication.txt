@@ -1,0 +1,4 @@
+BELLWETHER CLAIM CLOSEOUT
+Cutoff: 2107-09-18T16:00:00Z
+Evidence is immutable after the intake seal.
+A qualifying claim must precede both the item reserve time and the closeout cutoff.
